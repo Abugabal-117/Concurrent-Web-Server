@@ -24,7 +24,6 @@ The goal of the project is to show how core operating-system primitives — `soc
 ├── server.c        # Server implementation
 ├── www/
 │   └── index.html  # Default page served at /
-└── Report          # Project report (PDF)
 ```
 
 ## Getting Started
