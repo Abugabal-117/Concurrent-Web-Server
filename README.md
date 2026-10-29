@@ -154,4 +154,4 @@ The server is intentionally minimal and is not designed for production use:
 
 ## Acknowledgements
 
-Developed as Mini-Project 4 for **CSAI 204: Operating Systems**, Spring 2026. See [`Report`](Report) for the full project report.
+Developed as Mini-Project 4 for **CSAI 204: Operating Systems**, Spring 2026.
